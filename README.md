@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Software engineer student from Finland</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
